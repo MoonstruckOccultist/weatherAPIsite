@@ -1,3 +1,21 @@
+:root {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+    background-color: gray;
+}
+
 .headR {
     background-color: rgb(148, 80, 148);
+}
+
+.history {
+    background-color: rgb(107, 187, 160);
+    min-height: 100vh;
+    height: 100%;
+}
+
+.list {
+    min-height: 100%;
 }
