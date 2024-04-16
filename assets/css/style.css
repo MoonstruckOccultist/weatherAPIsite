@@ -18,4 +18,17 @@ body {
 
 .list {
     min-height: 100%;
+    display: flex;
+}
+
+.hList {
+    display: flex;
+    list-style-type: none;
+}
+
+.dCard {
+    background-color: rgb(29, 29, 60);
+    border: 2px solid white;
+    color: white;
+    margin: 2px;
 }
